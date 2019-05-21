@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sat May 18 06:17:07 GMT+02:00 2019
+1.base=C\:\\Users\\haggag\\Desktop\\chat-app-aws\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\131
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\haggag\\Desktop\\chat-app-aws\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\134
+3.set=DEX
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
+0.path=classes.dex
+3.base=C\:\\Users\\haggag\\Desktop\\chat-app-aws\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\132
+0.set=DEX
+0.base=C\:\\Users\\haggag\\Desktop\\chat-app-aws\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\133
+2.baseType=DIRECTORY
+1.path=classes.dex

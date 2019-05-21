@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_friend" android:title="add new friend" android:icon="@color/common_plus_signin_btn_text_dark"></item>
+    
+
+</menu>

@@ -1,0 +1,4 @@
+#Sat May 18 06:17:07 GMT+02:00 2019
+base.0=C\:\\Users\\haggag\\Desktop\\chat-app-aws\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\129
+path.0=classes.dex
+renamed.0=classes.dex
